@@ -1,0 +1,5 @@
+<!--pages/login/index.wxml-->
+<view class="login-page">
+  <text class="title">ADHD智慧辅助诊断平台</text>
+  <text class="subtitle">患者登录</text>
+</view>
